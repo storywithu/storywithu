@@ -3,10 +3,9 @@
 # 👋 Welcome to storywithu (BGM)'s GitHub
 Hi! I'm a general mechanical engineer + IT developer. 
 I work **carefully & deliberately**, focusing on learning and growth.  
-All repos here are **SIMPLE, DEMO, TRAINING** projects 🛠️  
+All repos here are **SIMPLE, DEMO, TRAINING** projects. *Safe to explore* 🔒 – no sensitive or personal data included🛠️  
 I value **human connection ❤️** more than technical hype.  
 Think about the meaning of `"storywithu"` 💭  
-All projects are **safe to explore** 🔒 – no sensitive or personal data included
 
 ---
 ## ⚡ Main Interests ⚡

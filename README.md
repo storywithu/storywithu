@@ -1,8 +1,28 @@
- 
-<img width="1038" height="465" alt="1" src="https://github.com/user-attachments/assets/6ada79c4-93c9-417e-af26-bff99c63cd9b" />
-
 <div align="center">
+
+# 👋 Welcome to storywithu (BGM)'s GitHub
+Hi! I'm a general mechanical engineer + IT developer. 
+I work **carefully & deliberately**, focusing on learning and growth.  
+All repos here are **SIMPLE, DEMO, TRAINING** projects 🛠️  
+I value **human connection ❤️** more than technical hype.  
+Think about the meaning of `"storywithu"` 💭  
+All projects are **safe to explore** 🔒 – no sensitive or personal data included
+
+---
+## ⚡ Main Interests ⚡
+ 🏭 Public infrastructure & Legacy systems   
+ ⚙️ HVAC/Cooling system & engineering projects  
+ 🍣 Food & culinary experiments  
+ 💖 People & human connection  
+ 🎵 Classic music, movies
+ <br> 
  
+## 📝 Note 📝
+
+ Work carefully, code meaningfully, value people above all 🌱
+
+<br> 
+
 ## 🧩 Engineering Focus 🧩
 
 ### Focus on long-life infrastructure engineering       

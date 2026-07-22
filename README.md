@@ -38,10 +38,14 @@ Think about the meaning of `"storywithu"` 💭
 
 &nbsp; &nbsp;&nbsp; &nbsp;  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white">  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"> <br><br> 
   
- <p>$\bf{\large{\color{#6580DD} &nbsp; &nbsp; 🏭 Mechanical / Engineering Design 🏭 }}$</p>
+ <p>$\bf{\large{\color{#6580DD} &nbsp; &nbsp; 🏭 \text{Mechanical Design / Engineering Analysis} 🏭 }}$</p>
 <img width="49" height="20" alt="image" src="https://img.shields.io/badge/CATIA-005386?style=for-the-badge" /> <img width="95" height="20" alt="image" src="https://img.shields.io/badge/Siemens%20NX-009999?style=for-the-badge&logo=siemens&logoColor=white" />
-<img width="100" height="20" alt="image" src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white" /> <img width="90" height="20" alt="image" src="https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" /> <img width="90" height="20" alt="image" src="https://img.shields.io/badge/RecurDyn-2E8B57?style=for-the-badge" />
+<img width="100" height="20" alt="image" src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white" /> <img width="90" height="20" alt="image" src="https://img.shields.io/badge/RecurDyn-2E8B57?style=for-the-badge" />
 <img width="260" height="20" alt="image" src="https://img.shields.io/badge/Injection%20Molding%20Design-Basics-blueviolet?style=for-the-badge" />  <img width="95" height="20" alt="image" src="https://img.shields.io/badge/SimScale-0052CC?style=for-the-badge&logo=simscale&logoColor=white" />
+<img width="110" height="20" alt="STAR-CCM+" src="https://img.shields.io/badge/STAR--CCM+-006699?style=for-the-badge" />
+<img width="110" height="20" alt="OpenFOAM" src="https://img.shields.io/badge/OpenFOAM-EB780A?style=for-the-badge" />
+<img width="90" height="20" alt="UG NX" src="https://img.shields.io/badge/UG%20NX-009999?style=for-the-badge" />
+<img width="95" height="20" alt="Fusion" src="https://img.shields.io/badge/Fusion-0696D7?style=for-the-badge" />
 <br> <br> 
 Mechanical Design / Simulation. Focus on reliability, maintainability, and long-life mechanical systems
 
@@ -57,9 +61,9 @@ Mechanical Design / Simulation. Focus on reliability, maintainability, and long-
 <img src="https://camo.githubusercontent.com/ba7752f44aad5c91a102c29257a86211061c9df08787f22ade0973d00b7ecd88/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465"> <img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/98e93a2c-adf4-4ade-b5ed-187b5d177d85"> <img src="https://camo.githubusercontent.com/8113f7c0f7d679649050a9aafc2f94d74655ccccf4b551e434e1d1e3cb37e635/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7973716c2d3434373941313f7374796c653d666c6174266c6f676f3d4d7973716c266c6f676f436f6c6f723d7768697465"> <img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/a180a7cd-6ed3-4f1e-af75-c46d226a22ce" /><br> <br>
 
 
- <p>$\bf{\large{\color{#6580DD} &nbsp; &nbsp; :robot: Engineering + AI Tool :robot: }}$</p>
+ <p>$\bf{\large{\color{#6580DD} :robot: \text{Engineering + AI Tool} :robot: }}$</p>
 
- &nbsp; &nbsp;&nbsp; &nbsp; <img width="88" height="40" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-green?logo=pytorch">  AI-assisted engineering workflow (LLM-based tooling) <br> <br>
+ &nbsp; &nbsp;&nbsp; &nbsp; <img width="80" height="20" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-green?logo=pytorch">  AI-assisted engineering workflow (LLM-based tooling) <br> <br>
 
 <p>$\bf{\large{\color{#6580DD} &nbsp; &nbsp; :pushpin: IT Engineering Environment :pushpin: }}$</p>
 &nbsp; &nbsp;&nbsp; &nbsp; 

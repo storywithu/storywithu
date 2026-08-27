@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Welcome to storywithu (BGM)'s GitHub
-Hi! I'm a general mechanical engineer + IT developer. 
+Hi! I'm a general Mechanical/HVAC/CFD engineer + SW developer. 
 I work **carefully & deliberately**, focusing on learning and growth.  
 All repos here are **SIMPLE, DEMO, TRAINING** projects. *Safe to explore* 🔒 – no sensitive or personal data included🛠️  
 I value **human connection ❤️** more than technical hype.  
@@ -9,7 +9,7 @@ Think about the meaning of `"storywithu"` 💭
 
 ---
 ## ⚡ Main Interests ⚡
- 🏭 Public infrastructure & Legacy systems   
+ 🏭 Public infrastructure   
  ⚙️ HVAC/Cooling system & engineering projects  
  🍣 Food & culinary experiments  
  💖 People & human connection  
